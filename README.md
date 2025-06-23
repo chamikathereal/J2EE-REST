@@ -28,7 +28,6 @@ J2EE-REST/
 ## 📦 Module Details
 
 #### 🟦 **rest**
-  ##
 - **Home**  
   Root REST endpoint (`/api/`) responding with a simple "Hello World" message to verify the API is running.
 
