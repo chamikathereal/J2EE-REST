@@ -6,6 +6,11 @@
 
 ---
 
+## 📽️ Demo Video
+[![J2EE-REST Project Demo](https://github.com/chamikathereal/J2EE-REST/blob/main/J2EE-REST.png)](https://youtu.be/nsKvPOtMVec)
+
+---
+
 ## 🗂️ Project Structure
 
 ```
